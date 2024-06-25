@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "salary-lupin-generator.helloWorld",
-        "title": "Hello World"
+        "command": "salary-lupin-generator.generateLittlePrince",
+        "title": "Salary Lupin Generator: Generate Little Prince"
       }
     ]
   },
