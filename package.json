@@ -3,6 +3,11 @@
   "displayName": "Salary Lupin Generator",
   "description": "Pretend to work and read a novel",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monet2155/salary-lupin-generator"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
   },
